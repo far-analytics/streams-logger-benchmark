@@ -6,9 +6,9 @@ This package provides a rough benchmark comparison between *Streams*, Pino, and 
 
 ## Materials
 
-- [Streams](https://github.com/faranalytics/streams-logger-benchmark/blob/main/src/streams.ts)
-- [Pino](https://github.com/faranalytics/streams-logger-benchmark/blob/main/src/pino.ts)
-- [Winston](https://github.com/faranalytics/streams-logger-benchmark/blob/main/src/winston.ts)
+- [Streams](https://github.com/adpatter/streams-logger-benchmark/blob/main/src/streams.ts)
+- [Pino](https://github.com/adpatter/streams-logger-benchmark/blob/main/src/pino.ts)
+- [Winston](https://github.com/adpatter/streams-logger-benchmark/blob/main/src/winston.ts)
 
 ## Methods
 

@@ -1,1 +1,1 @@
-import './result.js';
+import "./result.js";

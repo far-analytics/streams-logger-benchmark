@@ -1,6 +1,6 @@
 {
   "name": "streams-logger-benchmark",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "main": "./build/index.js",
   "scripts": {
     "clean:build": "rm -rf ./dist/* && tsc --build .",

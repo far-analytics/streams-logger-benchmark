@@ -16,7 +16,7 @@
   "dependencies": {
     "pino": ">=9.3.1",
     "pino-pretty": ">=11.2.1",
-    "streams-logger": "file://../streams-logger",
+    "streams-logger": "^3.0.0",
     "winston": ">=3.13.1"
   },
   "devDependencies": {
